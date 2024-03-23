@@ -1,0 +1,13 @@
+diff --git a/C.py b/C.py
+index 58765c5..24d36f7 100644
+--- a/C.py
++++ b/C.py
+@@ -2,4 +2,6 @@ a,b =1,2
+ print(a,b)
+ 
+ print("这是一个输出函数")
+-abcde
+\ No newline at end of file
++
++
++
