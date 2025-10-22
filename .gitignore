@@ -1,0 +1,32 @@
+# General system files
+.DS_Store
+Thumbs.db
+
+# Python artifacts
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.so
+*.egg-info/
+.eggs/
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# Dart / Flutter tooling
+.packages
+.dart_tool/
+.pub-cache/
+build/
+android/.gradle/
+android/app/build/
+ios/Pods/
+ios/Flutter/Flutter.podspec
+
+# IDE configuration
+.idea/
+*.iml
+.vscode/
